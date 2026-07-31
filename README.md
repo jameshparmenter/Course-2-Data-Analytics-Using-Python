@@ -6,7 +6,7 @@ This course was a far greater application of visualisation and trend analysis, u
 Please find the <a href='https://github.com/jameshparmenter/Course-2-Data-Analytics-Using-Python/blob/main/Parmenter_James_DA201_Assignment_Report%20(1).pdf'> full report above.</a>
 
 <b>Grade: 64% <span>&#42;</span></b>
-<span>&#42;</span> Grade impacted significantly by a family bereavement
+<br><span>&#42;</span> Grade impacted significantly by a family bereavement
 
 ## The Assignment:
 
