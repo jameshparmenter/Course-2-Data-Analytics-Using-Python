@@ -36,26 +36,11 @@ The three datasets were of medium size consisting of X variables and X observati
 Our time series analysis produced visualisations to give time context and prove trends in data. We installed seaborn and matplotlib, completed final groupings and then visualised the month on month capacity trends.
 
 
+<img width="400" alt="NHS1" src="https://github.com/user-attachments/assets/4d74edac-3cf1-41e5-9ecc-3a58749cd701" />
 
+<img width="400" alt="NHS2" src="https://github.com/user-attachments/assets/8f57d4ba-882e-466d-b58f-703e99ec8ffb" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img width="400" alt="NHS3" src="https://github.com/user-attachments/assets/0677c349-ba5f-4f71-a745-34596b6d2783" />
 
 
 We find the observations are dominated by a few categories: ‘General Consultation’ (Service Settings), ‘Care Related Encounters’ (Context Types) and ‘General Practice’ (Grouped National Categories), all peaking at the same time - October and November 2021.
@@ -71,14 +56,12 @@ We dropped ‘retweet’ and ‘favourited’ tweet analysis as this was mainly 
 
 For the core of the analysis , we produced several visualisations, ranging from stacked bar chats, linegraphs and boxplots.
 
+<img width="400" alt="NHS4" src="https://github.com/user-attachments/assets/4e484d3b-2ea5-47b1-8e6f-1d0e4ac88ed7" />
 
+<img width="400" alt="NHS5" src="https://github.com/user-attachments/assets/8000bf2f-7b90-4a86-91cc-e6a2a97feb1b" />
 
-
-
-
-
-
-
+<img width="400" alt="NHS7" src="https://github.com/user-attachments/assets/41fb619e-9dea-4444-937a-018d74e26f15" />
+<img width="400" alt="NHS6" src="https://github.com/user-attachments/assets/6f2459c8-e9ac-4699-8b26-0e168decec9f" />
 
 <ul>
 <li><i>‘Lineplots present findings on staff level utilisations where it peaks at 85% in October and November’</i></li>
