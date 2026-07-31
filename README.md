@@ -81,18 +81,18 @@ For the core of the analysis , we produced several visualisations, ranging from 
 
 
 <ul>
-<li>‘Lineplots present findings on staff level utilisations where it peaks at 85% in October and November’</li>
-<li>‘The appointment type split remains proportionate across the busiest months’</li>
-<li>‘General Practice has the widest range and highest level of outliers’</li>
-<li>‘The Appointment Type with the highest Attended Rate was ‘Telephone’ (~95%) and the lowest was ‘Home Visit’ (~75%)’</li>
+<li><i>‘Lineplots present findings on staff level utilisations where it peaks at 85% in October and November’</i></li>
+<li><i>‘The appointment type split remains proportionate across the busiest months’</i></li>
+<li><i>‘General Practice has the widest range and highest level of outliers’</i></li>
+<li><i>‘The Appointment Type with the highest Attended Rate was ‘Telephone’ (~95%) and the lowest was ‘Home Visit’ (~75%)’</i></li>
 </ul>
 
 ## Notable Patterns, Trends and Recomendations
 In recommendations, we mainly challenge the usefulness of data covering only one full calendar cycle, and one that is applied in a pandemic. 
 <ul>
-<li>‘...there is a consistent increase in appointments in the months of October, November which we hypothesise to be from the natural downturn in weather’</li>
-<li>‘ [A backlog of appointments in] …March, due to a backlog of appointments from the Omicron Covid-19 variant.’</li>
-<li>‘the next step would be to mimic this analysis across several years of data to account for a period where the data is not influenced by a worldwide pandemic’</li>
-<li>‘We also recommend improving data collection to reduce the number of ‘Unknown’ data records.’</li>
-<li>‘Our core recommendation is to move more appointments to video / online to help save the NHS money in missed appointments’</li>
+<li><i>‘...there is a consistent increase in appointments in the months of October, November which we hypothesise to be from the natural downturn in weather’</i></li>
+<li><i>‘ [A backlog of appointments in] …March, due to a backlog of appointments from the Omicron Covid-19 variant.’</i></li>
+<li><i>‘the next step would be to mimic this analysis across several years of data to account for a period where the data is not influenced by a worldwide pandemic’</i></li>
+<li><i>‘We also recommend improving data collection to reduce the number of ‘Unknown’ data records.’</i></li>
+<li><i>‘Our core recommendation is to move more appointments to video / online to help save the NHS money in missed appointments’</i></li>
 </ul>
