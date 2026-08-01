@@ -1,7 +1,6 @@
 # Course-2-Data-Analytics-Using-Python
 In ‘Data Analytics Using Python’, we learned an extensive scope of <b>Python, applying code across the Pandas, Numpy, Seaborn and Matplotlib</b> libraries. 
 Foundational theory included Python data structures, core functions, control flow expressions and the DateTime module. By the end of the course we had attained a skillbase in <b>Data Wrangling, Data Visualisation, Scraping and even Sentiment Analysis.</b>
-
 <br>This course was a far greater application of visualisation and trend analysis, using python.
 
 Please find the <a href='https://github.com/jameshparmenter/Course-2-Data-Analytics-Using-Python/blob/main/Parmenter_James_DA201_Assignment_Report%20(1).pdf'> full report above.</a>
